@@ -84,3 +84,10 @@ def chat_tg(message,  name, tg_user, user_num,  user_location, product):
     bot.register_next_step_handler(message, start_reg)
 
 bot.infinity_polling()
+
+
+
+
+
+
+
